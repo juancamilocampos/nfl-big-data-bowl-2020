@@ -4,4 +4,6 @@ seaborn==0.10.0
 scikit-learn==0.22.2
 tensorflow=2.1.0
 statsmodels=0.11.1
-
+dm-sonnet>=2.0.0b0
+graph_nets>=1.1
+tensorflow_probability
